@@ -1,4 +1,4 @@
-# Greedy-algorithm-for-the-knapsack-problem
+# Greedy algorithm for the knapsack problem
 This algorithm sort items by cost, and types them into a solution until the maximum weight is reached.
 A greedy algorithm can lead to an answer arbitrarily far from optimal. If there is an item with the highest cost, a weight close to the maximum, and a pair of items whose total value exceeds it, the algorithm will choose the item with the highest value, instead of a more optimal solution.
 # Жадный алгоритм для решения задачи о рюкзаке
